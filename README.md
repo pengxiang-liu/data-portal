@@ -15,8 +15,8 @@ A repository to share the data of my academic research papers.
 ## 2. Non-Convex Optimization
 
 <p align="center">
-  <img src="images/spatial_branching_1.gif" width="250">
-  <img src="images/spatial_branching_2.gif" width="250">
+  <img src="images/spatial-branching-1.gif" width="250">
+  <img src="images/spatial-branching-2.gif" width="250">
   <br>
   <b>Cone-specific spatial branching.</b>
 </p>
@@ -32,7 +32,7 @@ A repository to share the data of my academic research papers.
 ## 3. Distribution System Planning and Operation
 
 <p align="center">
-  <img src="images/contingency-screening.png" width="350">
+  <img src="images/contingency-screening.png" width="500">
   <br>
   <b>N-1 contingency screening for IEEE 33-bus distribution system.</b>
 </p>
