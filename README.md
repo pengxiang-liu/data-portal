@@ -32,7 +32,7 @@ A repository to share the data of my academic research papers.
 ## 3. Distribution System Planning and Operation
 
 <p align="center">
-  <img src="images/contingency-screening.png" width="500">
+  <img src="images/contingency-screening.png" width="450">
   <br>
   <b>N-1 contingency screening for IEEE 33-bus distribution system.</b>
 </p>
