@@ -10,7 +10,7 @@ A repository to share the data of my academic research papers.
   <b>Workflow of urban building energy-use estimation.</b>
 </p>
 
-- **P. Liu**, Z. Wu, et al., "Exploiting Geo-Spatial Shifting Flexibility of Building Energy-Use for Urban Multi-Energy System Operation," in *Advances in Applied Energy*, under review. [[Data Here](https://github.com/pengxiang-liu/data-portal/tree/main/content/gis_informed_urban_energy)]
+- **P. Liu**, Z. Wu, et al., "Exploiting Geo-Spatial Shifting Flexibility of Building Energy-Use for Urban Multi-Energy System Operation," in *Energy*, under review. [[Data Here](https://github.com/pengxiang-liu/data-portal/tree/main/content/gis_informed_urban_energy)]
 
 ## 2. Non-Convex Optimization
 
