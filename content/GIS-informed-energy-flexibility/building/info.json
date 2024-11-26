@@ -1,0 +1,16 @@
+{
+    "standard": {
+        "1900-2005": ["STANDARD1"],
+        "2005-2012": ["STANDARD2"],
+        "2012-2017": ["STANDARD3"],
+        "2017-2021": ["STANDARD4"],
+        "2021-": ["STANDARD5"]
+    },
+    "use_type": {
+        "Residential": ["SINGLE_RES", "MULTI_RES"],
+        "Commercial": ["FOODSTORE", "RESTAURANT", "RETAIL", "GYM"],
+        "Industrial": ["INDUSTRIAL", "SERVERROOM"],
+        "OFFICE": ["OFFICE", "LAB", "HOTEL"],
+        "Institutional": ["HOSPITAL", "LIBRARY", "MUSEUM", "SCHOOL", "UNIVERSITY"]
+    }
+}
