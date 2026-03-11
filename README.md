@@ -5,7 +5,8 @@
 - **P. Liu**, H. Wang, Z. Wu, et al., 
 "Adaptive Sigmoid Partitioning for Neural Network Embedded Economic Dispatch with Grid-Interactive Buildings," 
 submitted to *IEEE PES Letters* for review.
-[[Data](https://github.com/pengxiang-liu/data-portal/tree/main/PESL-2026-N1)]
+[[Data](https://github.com/pengxiang-liu/data-portal/tree/main/PESL-2026-N1/data)]
+[[Demo](https://github.com/pengxiang-liu/data-portal/tree/main/PESL-2026-N1/demo)]
 
 - **P. Liu**, Z. Wu, W. Gu, et al., 
 "[Fast Resilience Assessment of Integrated Electricity-Gas Systems Considering Non-Convex Gas Flow Dynamics](https://ieeexplore.ieee.org/document/10416289/)," 
@@ -20,7 +21,8 @@ in *IEEE Transactions on Power Systems*, vol. 38, no. 1, pp. 972-975, January 20
 - **P. Liu**, Z. Wu, W. Gu, et al., 
 "[An Improved Spatial Branch-and-Bound Algorithm for Non-Convex Optimal Electricity-Gas Flow](https://ieeexplore.ieee.org/document/9507323)," 
 in *IEEE Transactions on Power Systems*, vol. 37, no. 2, pp. 1326-1339, March 2022. 
-[[Data](https://github.com/pengxiang-liu/data-portal/tree/main/TPWRS-2022-N1)]
+[[Data](https://github.com/pengxiang-liu/data-portal/tree/main/TPWRS-2022-N1/data)]
+[[Demo](https://github.com/pengxiang-liu/data-portal/tree/main/TPWRS-2022-N1/demo)]
 
 - **P. Liu**, Z. Wu, Z. Zhang, et al., 
 "[Exploiting Geospatial Shifting Flexibility of Building Energy-Use for Urban Multi-Energy System Operation](https://www.sciencedirect.com/science/article/abs/pii/S0360544224037861),"
