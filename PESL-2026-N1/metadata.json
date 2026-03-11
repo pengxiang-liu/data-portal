@@ -1,0 +1,36 @@
+{
+    "building": {
+        "Single-Family House": {
+            "file": "Single-Family House.idf",
+            "HeatingKey": "Heating Setpoint",
+            "CoolingKey": "Cooling Setpoint",
+            "HeatingOut": "Zone Ideal Loads Zone Total Heating Energy [J](Hourly)",
+            "CoolingOut": "Zone Ideal Loads Zone Total Cooling Energy [J](Hourly)"
+        },
+        "Two-Storey Villa": {
+            "file": "Two-Storey Villa.idf",
+            "HeatingKey": "Heating Setpoint",
+            "CoolingKey": "Cooling Setpoint",
+            "HeatingOut": "Zone Ideal Loads Zone Total Heating Energy [J](Hourly)",
+            "CoolingOut": "Zone Ideal Loads Zone Total Cooling Energy [J](Hourly)"
+        }
+    },
+    "weather": {
+        "Chicago": {
+            "file": "USA_IL_Chicago.OHare.Intl.AP.725300_TMYx.epw",
+            "location": "Chicago IL USA",
+            "latitude": 41.995,
+            "longitude": -87.933,
+            "timezone": -6,
+            "elevation": 204
+        },
+        "Denver": {
+            "file": "USA_CO_Denver.Intl.AP.725650_TMYx.epw",
+            "location": "Denver CO USA",
+            "latitude": 39.748,
+            "longitude": -104.999,
+            "timezone": -7,
+            "elevation": 1655
+        }
+    }
+}
